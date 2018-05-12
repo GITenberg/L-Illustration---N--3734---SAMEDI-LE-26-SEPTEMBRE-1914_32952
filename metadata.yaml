@@ -1,0 +1,28 @@
+_repo: L-Illustration---N--3734---SAMEDI-LE-26-SEPTEMBRE-1914_32952
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: L'Illustration
+gutenberg_issued: '2010-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32952'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'AP'
+- !lcsh 'Illustrated periodicals -- France'
+- !lcc 'D501'
+title: L'Illustration, No. 3734, 26 Septembre 1914
+url: http://www.gutenberg.org/ebooks/32952
